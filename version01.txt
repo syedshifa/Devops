@@ -1,7 +1,8 @@
-This is the new feature
-This is the bug fix in development branch
-This is gadbad code
-rebase
+:wq
 
-creating one more change
+<<<<<<< Updated upstream
+=======
+creating a new change,
+in the file 
 
+>>>>>>> Stashed changes
