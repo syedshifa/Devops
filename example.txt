@@ -1,0 +1,3 @@
+this is some content in example file
+this is the new change in master file
+
